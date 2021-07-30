@@ -1,4 +1,9 @@
-/*Samuel L Jackson as the guy who buys me milk*/
+/*Samuel L Jackson as the guy who buys me milk
+Just run this in your browser using ctrl+shift+J and copy paste the code below
+
+the first prompt is the amount of money you give to buy milk
+The price of per bottle of milk is 1.5 
+so her responds with the bottles of milk he buys and the change he has if any*/
 
 function getMilk(money) {   
     console.log("leaveHouse");
